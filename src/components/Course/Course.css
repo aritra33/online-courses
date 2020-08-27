@@ -1,0 +1,18 @@
+.card-item{
+    margin-top: 40px;
+    margin-left: 35px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px lightgray;
+    width: 280px;
+    height: 150px;
+    float: left;
+}
+.btn-all{
+    background-color: rgb(247, 34, 115);
+    border: none;
+}
+.btn-all:hover {
+    background-color: white;
+    color: rgb(247, 34, 115);
+    border: 2px solid rgb(247, 34, 115);
+  }

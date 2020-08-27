@@ -1,0 +1,10 @@
+.shop-container{
+    display: flex;
+}
+.course-container{
+    width: 75%;
+    border-right: 2px solid rgb(247, 34, 115);
+}
+.cart-container{
+    width: 30%;
+}
